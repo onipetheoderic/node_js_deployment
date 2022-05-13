@@ -97,7 +97,7 @@ Add an A record for @ and for www to your droplet
 ## Register and/or setup domain from registrar
 I prefer Namecheap for domains.
 
-Choose "Custom nameservers" and add these 3
+Choose "Custom nameservers" and add these 3, if there is any pre-existing one remove it
 
 * ns1.digitalocean.com
 * ns2.digitalocean.com
